@@ -1,0 +1,10 @@
+Esqueci, Mais alguma orientação, para rodar ou baixar o projeto só me avisar.
+
+Mas é só baixar pelo endereço mesmo.
+
+Configurar o caminho do webdrive do chrome nas pages objects 
+
+TelaDeLogin.java
+TelaDeConteudo.java
+
+Patrícia
